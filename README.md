@@ -1,4 +1,4 @@
- 
+ NOTE : More details can be found in analysis report
 
 Data Scientist – Market Place (Analysis Document)
 
